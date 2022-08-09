@@ -1,1 +1,1 @@
-# sugo.wlv
+# sugo.wlv.json
